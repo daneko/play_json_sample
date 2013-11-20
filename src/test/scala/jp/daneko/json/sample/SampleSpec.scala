@@ -5,7 +5,7 @@ import org.specs2._
 import play.api.libs.json._
 import play.api.libs.functional.syntax._
 
-class Sample extends Specification {
+class SampleSpec extends Specification {
 
   def is = s2"""
 sampleとして次のようなjsonがある場合
